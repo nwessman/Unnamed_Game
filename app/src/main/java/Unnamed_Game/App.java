@@ -5,7 +5,7 @@ package Unnamed_Game;
 
 public class App {
     public String getGreeting() {
-        return "Hello Worlds!";
+        return "Hello Java 16.0.2!";
     }
 
     public static void main(String[] args) {
